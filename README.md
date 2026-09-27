@@ -1,23 +1,39 @@
-# 你好，我是 chentong 👋
+<div align="center">
 
-Robotics / Embodied AI Engineer，专注人形机器人运动重定向与强化学习部署、视觉引导的机械臂操作。
+# Chentong · Robotics & Embodied AI
 
-## 🤖 In Focus
+**Robotics / Embodied AI Engineer**  
+Humanoid control · Reinforcement learning · Vision-guided manipulation
 
-- **人形机器人全身控制**：动作捕捉/AMASS 数据重定向 → 强化学习策略训练与真机部署，覆盖舞蹈、武术等复杂动作序列
-- **机械臂视觉抓取**：D435i 深度相机 + 手眼标定，实现真机端到端视觉引导抓取
-- **灵巧操作**：面向乐谱驱动的灵巧手精细动作研究
+机器人与具身智能工程师，专注人形机器人运动控制、强化学习部署与机械臂视觉操作。
 
-## 📌 Highlighted Repos
+[Portfolio](https://walle250ai.github.io/chentong-portfolio/) · [Portfolio source](https://github.com/walle250ai/chentong-portfolio) · [Email](mailto:chentong250ai@gmail.com)
 
-- [`robocup-g1`](https://github.com/walle250ai/robocup-g1) — Unitree G1 人形足球机器人相关开发
-- [`OmniXtreme`](https://github.com/walle250ai/OmniXtreme)
-- [`brewbot`](https://github.com/walle250ai/brewbot) — PyBullet 机械臂咖啡师仿真 + FastAPI/Streamlit 可视化
+</div>
 
-## ✍️ Blog
+---
 
-[walle250ai.github.io/chentong-portfolio](https://walle250ai.github.io/chentong-portfolio/)
+## About
 
-## 📫 Contact
+I work on robot learning and control—from humanoid motion retargeting and locomotion policies to RGB-D-guided manipulation.
 
-chentong250ai@gmail.com
+- **Humanoid robotics:** AMASS motion retargeting, whole-body control, and reinforcement-learning deployment.
+- **Robot manipulation:** RGB-D perception, hand–eye calibration, and vision-guided grasping.
+- **Dexterous interaction:** exploring fine-grained, music-driven hand motion.
+
+## Selected Work
+
+| Project | Focus | Highlights |
+|---|---|---|
+| [OmniXtreme](https://github.com/walle250ai/OmniXtreme) | High-dynamic humanoid motion tracking | [Paper](https://arxiv.org/abs/2602.23843) · [Project page & demos](https://extreme-humanoid.github.io/) · pretrained policy and sim-to-sim evaluation |
+| [PM-V2 RL](https://github.com/walle250ai/pm-v2-rl) | Biped locomotion with MuJoCo + PPO | EngineAI PM-V2 training setup, observation/action design, reward function, and training scripts |
+| [BrewBot](https://github.com/walle250ai/brewbot) | Robotic barista simulation | PyBullet UR5e · RGB-D cup detection · IK and trajectory planning · FastAPI + Streamlit |
+
+## Toolbox
+
+**Python · C++ · ROS · MuJoCo · PyBullet · Stable-Baselines3 · FastAPI**
+
+## Links
+
+- [Portfolio](https://walle250ai.github.io/chentong-portfolio/) · [Source code](https://github.com/walle250ai/chentong-portfolio)
+- [Contact me](mailto:chentong250ai@gmail.com)
